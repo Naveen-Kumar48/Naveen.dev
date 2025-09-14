@@ -1,0 +1,2 @@
+# PortfolioYt
+This portfolio demonstrates foundational web design competencies, with a particular focus on HTML and CSS. It serves as an initial phase in the development of these technologies, highlighting basic layout, structural elements, and styling techniques. The project functions as both a learning resource and a visual representation of the developer's early advancements in front-end web development.
